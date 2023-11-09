@@ -9,7 +9,7 @@
 
 <picture> <img align="right" src="https://github.com/waleed-elgendy/images/blob/main/animation_500_kxa883sd.gif?raw=true" width = 300px></picture>
 
--  I’m interested in Software Engineering ❤
+-  ❤ I’m interested in Software Engineering 
 - :technologist: **Currently Working on Mobile App Development** `Flutter`
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Gmail&amp;color=EA4335&amp;style=flat-square)](mailto:waleedelgendy3@gmail.com)
 - :nerd_face: Always believe `"You are what you loved"`
