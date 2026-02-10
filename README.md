@@ -34,24 +34,17 @@
 <h3>📱 Mobile Apps Portfolio</h3>
 
 <p>
-I have worked on multiple <b>production Flutter applications</b> across different domains including
+I have worked on <b>+15 production Flutter applications</b> across different domains including
 education, travel, e-commerce, and on-demand services.
 </p>
 
-<ul>
-  <li><b>Smart School</b> – Online learning platform</li>
-  <li><b>Smart School Teacher</b> – Educator companion application</li>
-  <li><b>E3’sely</b> – On-demand car cleaning service</li>
-  <li><b>Inspire Travel</b> – Travel companion application</li>
-</ul>
-
 <p>
-🔗 <b>Full apps portfolio (descriptions & store links):</b><br>
-<a href="https://github.com/waleed-elgendy/mobile-apps-portfolio" target="_blank">
-github.com/waleed-elgendy/mobile-apps-portfolio
+🔗 <b>Full apps portfolio (descriptions & store links):</b>
+<a href="https://github.com/waleed-elgendy/waleed-elgendy/blob/main/mobile-apps-portfolio.md" target="_blank">
+<b>mobile-apps-portfolio</b>
 </a>
 </p>
-
+<br><br>
 <div align="center">
   <i>Follow me:</i><br><br>
 
